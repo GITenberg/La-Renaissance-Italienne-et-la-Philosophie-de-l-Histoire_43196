@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42060'
     url: http://www.gutenberg.org/2009/agents/42060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43196#La-Renaissance-Italienne-et-la-Philosophie-de-l-Histoire
 gutenberg_bookshelf:
 - FR Histoire
 - FR Beaux-Arts
