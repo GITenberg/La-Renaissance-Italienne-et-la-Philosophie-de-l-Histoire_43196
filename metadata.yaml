@@ -1,0 +1,32 @@
+_repo: La-Renaissance-Italienne-et-la-Philosophie-de-l-Histoire_43196
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43196-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gebhart, Emile
+    alias: Gebhart, Émile
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '42060'
+    url: http://www.gutenberg.org/2009/agents/42060
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Beaux-Arts
+gutenberg_issued: '2013-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43196'
+  lccn: '38023660'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renaissance -- Italy'
+- !lcsh 'History -- Philosophy'
+- !lcc 'DG'
+title: La Renaissance Italienne et la Philosophie de l'Histoire
+url: http://www.gutenberg.org/ebooks/43196
